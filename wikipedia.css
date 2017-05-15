@@ -84,12 +84,13 @@ li:hover {
   box-shadow: 5px 5px 5px 1px rgba(167,215,249,0.25);
 }
 
-#header {
-	margin: 0;
-	padding: 5px;
-	color: #337ab7;
-	max-width: 200px;
-	text-align: left;
+#footer {
+  text-align: center;
+  position: fixed;
+  bottom: 5px;
+  left: 5px;
+  margin: 0;
+  color: #337ab7;
 }
 
 /*
